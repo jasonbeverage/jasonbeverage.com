@@ -2,7 +2,7 @@
 baseurl = "https://www.jasonbeverage.com" #without ending slash
 languageCode = "en-us"
 theme = "hugo-identity-theme"
-title = "Hugo Identity Theme"
+title = "jasonbeverage.com"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-19598441-1"
