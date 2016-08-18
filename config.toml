@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/" #without ending slash
+baseurl = "https://jasonbeverage.netlify.com" #without ending slash
 languageCode = "en-us"
 theme = "hugo-identity-theme"
 title = "Hugo Identity Theme"
